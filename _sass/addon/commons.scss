@@ -1079,7 +1079,7 @@ search {
       overflow: hidden;
       text-overflow: ellipsis;
       display: -webkit-box;
-      // -webkit-line-clamp: 3;
+      // -webkit-line-clamp: 3; ##ERROR FLAG
       -webkit-box-orient: vertical;
     }
   }
