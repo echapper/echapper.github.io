@@ -8,3 +8,40 @@
 ';
 
 /* append your custom style below */
+.notice {
+  background-color: #2a2727; /* 배경색 */
+  border-left: 5px solid #632e2e; /* 왼쪽 경계선 */
+  padding: 10px; /* 내부 여백 */
+  margin: 10px 0; /* 위아래 여백 */
+}
+
+.faded_italic-text {
+  opacity: 0.6;         /* 투명도 설정 (0.0 ~ 1.0) */
+  font-style: italic;   /* 기울임 (Italic) */
+}
+
+.dimmed-text {
+  font-size: 0.8em;    /* 크기를 약간 작게 */
+}
+
+figcaption {
+  font-size: 0.9em; /* 캡션 글자 크기 */
+  color: gray; /* 캡션 색상 */
+  text-align: center; /* 중앙 정렬 */
+  margin-top: 5px; /* 위쪽 여백 */
+}
+
+//사진 왼쪽, 텍스트 오른쪽 관련 스타일
+.flex-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.flex-image {
+  width: 30%; /* 이미지 크기 */
+  margin-right: 20px; /* 이미지와 텍스트 사이의 간격 */
+}
+
+.flex-text {
+  flex: 1; /* 텍스트 폭을 최대한으로 설정 */
+}
