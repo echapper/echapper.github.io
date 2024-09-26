@@ -263,7 +263,7 @@ void RecurMoveDisks(int n, int from, int temp, int to)
 > (i)의 첫번째 항에 관계식을 또 적용하면 (ii)가 생긴다. 이는 재귀함수가 실행될 때 마다 스택이 쌓이는 것과 같다.
 >
 > 먼저 (i)의 첫째항인 (head<span class="faded_italic-text dimmed-text">from자리</span> → tm)이 (ii)에선 <f → to>로 대치된다.<span class="faded_italic-text dimmed-text">(i)의 (f→tm) ⇒ (ii)의 <f→to> = ... </span>   
-> <span class="faded_italic-text dimmed-text">\! head는 어차피 from에서 꺼내는 디스크이니 같다고 봐도 무방하다</span>
+> <span class="faded_italic-text dimmed-text">FLAGhead는 어차피 from에서 꺼내는 디스크이니 같다고 봐도 무방하다</span>
 >
 > 즉,  
 >
