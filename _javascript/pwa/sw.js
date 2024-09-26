@@ -91,6 +91,8 @@
 //   );
 // });
 
+
+// 아래는 실시간 배포를 위해 추가한 코드. 문제시 아래코드 삭제 후 위 것으로 복귀
 self.addEventListener("install", (event) => {
   self.skipWaiting();
 });
