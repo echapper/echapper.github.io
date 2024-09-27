@@ -1,8 +1,51 @@
-```
 ---
-title: Tower of Hanoi, HJM Data Structures
-date: 2024-09-27 12:00:00 +0900
+title: "Tower of Hanoi, HJM Data Structures"
+date: 2024-09-27 12:00:02 +0900
 categories: [Data Structures, HJM Data Structures]
 tags: [data_structures, cpp]
+use_math: true
+
+## NOTICE BLOCK
+# {: .notice}
+#<div class="notice">
+#{here}  
+#</div>
+
+## FADED ITALIC
+# {: .faded_italic-text}
+
+## DIMMED-TEXT
+# {: .dimmed-text}
+
+### FADED_ITALIC + DIMMED-TEXT
+# <span class="faded_italic-text dimmed-text">{here}/span>
 ---
-```
+
+# dsddso
+
+
+
+
+
+
+
+this the isant realy
+dsds
+
+dsds	  
+{: .notice}
+
+
+
+this is ral  
+ajoutaire écriture
+
+reuvagé écriture
+
+<div class="notice">
+  un ecriture<br>
+  nouvelle alligne<br><br>
+  double alligné
+</div>
+
+et celà générales![스크린샷 2024-09-27 06.19.58](../../images/2024-09-27-hjmDataStructures-4-3/스크린샷 2024-09-27 06.19.58.png){: width="50%" height="50%"}{: .align-center}
