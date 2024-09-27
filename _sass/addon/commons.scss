@@ -681,6 +681,8 @@ $btn-mb: 0.5rem;
 
 #sidebar {
   @include pl-pr(0);
+  
+  
 
   position: fixed;
   top: 0;
@@ -691,7 +693,9 @@ $btn-mb: 0.5rem;
   z-index: 99;
   // background: var(--sidebar-bg); ## MODIFI
   // ajoute v
-  background: url(../../assets/images/sideimage.png);
+  // background: url(../../assets/images/sideimage2.jpeg);
+  background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(75,47,13,1) 0%, rgba(0,0,0,1) 100%);
   background-size: cover;
   background-position: center;
   //ajoute ^
@@ -755,6 +759,7 @@ $btn-mb: 0.5rem;
     margin-bottom: 0.5rem;
     width: fit-content;
     color: var(--site-title-color);
+    
   }
 
   .site-subtitle {
