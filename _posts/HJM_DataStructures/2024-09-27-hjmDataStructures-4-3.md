@@ -5,6 +5,8 @@ categories: [Data Structures, HJM Data Structures]
 tags: [data_structures, cpp]
 use_math: true
 
+typora-root-url: ../
+
 ## NOTICE BLOCK
 # {: .notice}
 #<div class="notice">
@@ -50,4 +52,6 @@ reuvagé écriture
 
 et celà générales
 
-![IMG_5342](../../images/2024-09-27-hjmDataStructures-4-3/IMG_5342.JPG)
+
+
+![IMG_5342](/../images/2024-09-27-hjmDataStructures-4-3/IMG_5342.JPG)
