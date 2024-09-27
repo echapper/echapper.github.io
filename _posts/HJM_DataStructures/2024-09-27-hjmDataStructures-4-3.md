@@ -52,4 +52,4 @@ et celà générales
 
 
 
-![IMG_5342](../../images/2024-09-27-hjmDataStructures-4-3/IMG_5342.JPG)
+![IMG_5342](./images/2024-09-27-hjmDataStructures-4-3/IMG_5342.JPG)
