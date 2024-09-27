@@ -48,4 +48,8 @@ reuvagé écriture
   double alligné
 </div>
 
-et celà générales![스크린샷 2024-09-27 06.19.58](../../images/2024-09-27-hjmDataStructures-4-3/스크린샷 2024-09-27 06.19.58.png){: width="50%" height="50%"}{: .align-center}
+et celà générales
+
+
+
+![capturedecran1](../../images/2024-09-27-hjmDataStructures-4-3/capturedecran1-7412117.png)
