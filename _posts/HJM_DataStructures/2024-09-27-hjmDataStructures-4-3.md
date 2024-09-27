@@ -93,3 +93,13 @@ s
 l'image est au-delà
 
 ![capturedecran](/../images/2024-09-27-hjmDataStructures-4-3/capturedecran.png)
+
+
+
+
+
+dsdsdMOERERR!
+
+
+
+<img src="/../images/2024-09-27-hjmDataStructures-4-3/captureDecran12x.png" alt="captureDecran12x" style="zoom:33%;" />
