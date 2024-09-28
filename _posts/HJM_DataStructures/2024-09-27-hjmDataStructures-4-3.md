@@ -28,9 +28,10 @@ typora-root-url: ../
 ---
 
 <div class="notice">
-이 글은 홍정모 교수님의 자료구조 강의에 기반한 글입니다.<br>
+이 글은 홍정모 교수님의 자료구조 강의 4-3강에 기반한 글입니다.<br>
   🌟<a href="https://honglab.co.kr/courses/data-structures" target="_blank">들으러가기</a>
 </div>
+
 
 ## Tower of Hanoi
 
