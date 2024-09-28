@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: кусок селёдка # the main title
 
-tagline: data structures, algorithm # it will display as the subtitle
+tagline: data structures, algorithms # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   blog, antoniy, datastructures, algorithms
