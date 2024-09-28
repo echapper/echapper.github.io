@@ -41,7 +41,7 @@ typora-root-url: ../
 <figure style="text-align: center;"><img src="/../images/2024-09-27-hjmDataStructures-4-3/captureDecran22n.png" alt="captureDecran22n" style="zoom:60%;"/><figcaption><a href="https://www.mathsisfun.com/games/towerofhanoi.html" target="_blank">플레이 해보기</a></figcaption></figure>
 
 이 문제를 처음 접해봤는데 처음 디스크 3개로 시작할 때 반대쪽 봉으로 옮기는 것은 어렵지 않다. 하지만 4개, 5개로 가면 확실히 난해해졌다.   
-디스크가 많을 땐 도저히 직관으로는 어떻게 스탭들을 규칙적으로 밟아나가야 할 지 감을 못 잡았다.  
+디스크가 많을 땐 도저히 직관으로는 어떻게 스탭들을 규칙적으로 밟아나가야 할지 감을 못 잡았다.  
 <span class="faded_italic-text dimmed-text">구조 파악 없이 코드를 짜낼 수 있을리는 만무...</span>
 
 > 하나 찾은 작은 실마리는 이사를 간다면 일단 가장 아래부터 차차 쌓아야 한다는 것.  
